@@ -1,0 +1,11 @@
+input.error {
+    border-color: red;
+    color:black !important
+}
+.error {
+    color: red;
+}
+
+.sortable-handler {
+    touch-action: none;
+  }
